@@ -1,4 +1,4 @@
-# matlab
+# MATLAB M-scripting
 A complete Matlab Scripting Tutorial - Codes
 
 # Simulink Alignment Tool - Auto Layout Subsystems - Function
